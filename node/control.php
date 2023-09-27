@@ -1,0 +1,7 @@
+<?php
+$prueba = "prueba perro";
+
+
+
+
+ ?>
